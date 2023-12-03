@@ -1,0 +1,1 @@
+console.log(2 * Math.pow(12+3,2));
